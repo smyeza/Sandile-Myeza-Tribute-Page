@@ -19,16 +19,18 @@
 }
 
 #img-div{
-    width: 500px;
+    max-width: 600px;
     align-items: center;
     margin: 0 auto;
-    border: solid;
-    display: flex;
+    padding: 10px;
+    
 }
 
 #image{
-    width: 100%;
-    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    padding: 3px;
+    
 }
 
 #img-caption{
